@@ -1,0 +1,9 @@
+api:
+  gateway: 'api url'
+
+security:
+  oauth2:
+    client-id: 'client-id'
+    client-secret: 'client-secret'
+
+client-logger.enabled: true
